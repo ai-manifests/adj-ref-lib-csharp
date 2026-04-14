@@ -12,7 +12,7 @@
     <Description>C# reference implementation of the Agent Deliberation Journal (ADJ) specification.</Description>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageProjectUrl>https://adp-manifest.dev</PackageProjectUrl>
-    <RepositoryUrl>https://git.marketally.com/ai-manifests/adj-ref-lib</RepositoryUrl>
+    <RepositoryUrl>https://git.marketally.com/ai-manifests/adj-ref-lib-csharp</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>

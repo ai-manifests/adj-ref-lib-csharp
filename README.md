@@ -9,8 +9,8 @@ This library is one of several reference implementations ([TypeScript](https://g
 Clone and build:
 
 ```bash
-git clone https://git.marketally.com/ai-manifests/adj-ref-lib.git
-cd adj-ref-lib
+git clone https://git.marketally.com/ai-manifests/adj-ref-lib-csharp.git
+cd adj-ref-lib-csharp
 dotnet build
 ```
 
